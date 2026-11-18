@@ -76,4 +76,11 @@ requests, no external assets — the game is plain static files under `game/`.
   `/output` and writes `dossier.json`.
 - `screenshots/` — four screenshots of the game running in a browser.
 
+## Screenshots
+
+- `1-start.jpg` — the title screen, ready to start a new run or continue a save.
+- `2-drive.jpg` — driving through the streets of Port Meridian.
+- `3-chase.jpg` — a police chase with wanted stars on the HUD.
+- `4-mission.jpg` — a story mission in progress, with the objective and waypoint on screen.
+
 Built for the make.fun GTA 6 bounty: https://make.fun/?ref=vzf6m5kx
