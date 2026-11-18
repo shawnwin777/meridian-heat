@@ -1,8 +1,8 @@
 # Meridian Heat
 
-![gta6-01](https://make.fun/badge/gta6-01.svg)
-![Rank](https://make.fun/badge/gta6-01/shawnwin777/meridian-heat/rank.svg)
-![Reward](https://make.fun/badge/gta6-01/shawnwin777/meridian-heat/reward.svg)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/shawnwin777/meridian-heat/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/shawnwin777/meridian-heat/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 **Meridian Heat** is a 2D top-down open-world crime game set in the sun-soaked
 fictional city of **Port Meridian**. You are Rex Dalton, a wheelman new in town,
